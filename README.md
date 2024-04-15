@@ -1,5 +1,5 @@
-TinDog - Meet new and interesting dogs nearby
+TinDog 
 
-100 Days of Code
+Meet new and interesting dogs nearby
 
-AppBrewery
+100 Days of Code | AppBrewery
